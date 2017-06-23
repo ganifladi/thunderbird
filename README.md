@@ -1,2 +1,2 @@
 # thunderbird
-# this is not a thunderbird theme!
+this is not a thunderbird theme!
