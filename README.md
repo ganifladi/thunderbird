@@ -1,6 +1,6 @@
 # White Thunderbird Icons
 this is not a thunderbird theme! this repository only applies some nice white icons, perfect for a black theme.
-for full themes please visit https://github.com/spymastermatt/thunderbird-monterail
+for full themes please visit https://github.com/spymastermatt/thunderbird-monterail (which is also the author of the icons. all credit should go to him!)
 
 USAGE:
 1. Download .zip
