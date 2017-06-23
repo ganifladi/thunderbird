@@ -1,0 +1,14 @@
+/*
+ * Huge thanks to the following for their inspiration/guidance:
+ * http://www.linnhe2.free-online.co.uk/thunderbird/chrome.html - For a very comprehensive guide to userChrome.css
+ * https://monterail.com/blog/2016/the-power-of-email-clients-why-did-we-redesign-thunderbird?utm_source=Thunderbird&utm_campaign=Dribbble&utm_medium=blogpost%22 - For the initial inspiration to do this 
+ * http://www.omgubuntu.co.uk/2017/04/stunning-thunderbird-redesign-mockup - For alerting me to the beautiful mockup by monterail.com
+*/
+
+@import "../icons/lightIcons.css"; /*For dark Folder Tree, with a light Message List*/
+
+/**** Variables: Uncomment and Edit these for easy customisation ****/
+
+:root {
+  
+}
