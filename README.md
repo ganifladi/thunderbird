@@ -9,4 +9,4 @@ USAGE:
 
 In case you already have a chrome directory inside your profile directory please append the content!
 
-For a nice black theme have a look at this stylish CSS: 
+For a nice black theme have a look at this stylish CSS: https://userstyles.org/styles/144424/dark-flat-minimal-thunderbird-boom-bird 
